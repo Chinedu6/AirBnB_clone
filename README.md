@@ -4,13 +4,13 @@
 
 ### Contents
 
-* [Description](https://github.com/Chimmysmallz/AirBnB_clone#description)
-* [Files in This Repository](https://github.com/Chimmysmallz/AirBnB_clone#files-in-this-repository)
-* [Usage](https://github.com/Chimmysmallz/AirBnB_clone#usage)
-* [Installation](https://github.com/Chimmysmallz/AirBnB_clone#installation)
-* [Example Usage](https://github.com/Chimmysmallz/AirBnB_clone#example-usage)
-* [Technologies Used](https://github.com/Chimmysmallz/AirBnB_clone#technologies-used)
-* [Authors](https://github.com/Chimmysmallz/AirBnB_clone#authors)
+* [Description](https://github.com/Chinedu6/AirBnB_clone#description)
+* [Files in This Repository](https://github.com/Chinedu6/AirBnB_clone#files-in-this-repository)
+* [Usage](https://github.com/Chinedu6/AirBnB_clone#usage)
+* [Installation](https://github.com/Chinedu6/AirBnB_clone#installation)
+* [Example Usage](https://github.com/Chinedu6/AirBnB_clone#example-usage)
+* [Technologies Used](https://github.com/Chinedu6/AirBnB_clone#technologies-used)
+* [Authors](https://github.com/Chinedu6/AirBnB_clone#authors)
 ---
 
 ### Description
@@ -74,7 +74,7 @@ This repository contains several packages that include the various models that w
 
 ### Installation
 ```
-git clone git@github.com:Chimmysmallz/AirBnB_clone.git
+git clone git@github.com:Chinedu6/AirBnB_clone.git
 ```
 ---
 
@@ -153,5 +153,5 @@ $
 
 ### Authors
 
-Chinedu Oguegbu
-Ephrem Mesfin
+* Chinedu Oguegbu
+* Ephrem Mesfin

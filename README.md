@@ -151,7 +151,7 @@ $
 * Style: PEP8 Ver. 1.7
 ---
 
-### Author
+### Authors
 
 Chinedu Oguegbu
 Ephrem Mesfin
